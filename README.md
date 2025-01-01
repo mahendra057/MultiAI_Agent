@@ -1,4 +1,4 @@
-# Multi AI_Agent
+# Multi-AI-Agent_LangGraph
 
 ### LangChain Integration with AstraDB for Routing and Querying System
 
